@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/bdurham2/PIpeline/_apis/build/status/brendand1990.first_pipeline)](https://dev.azure.com/bdurham2/PIpeline/_build/latest?definitionId=1)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
